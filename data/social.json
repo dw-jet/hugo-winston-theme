@@ -1,0 +1,24 @@
+{
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/jeteitsworth",
+      "image": "images/social/twitter.svg"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/jamesteitsworth",
+      "image": "images/social/linkedin.svg"
+    },
+    {
+      "name": "mastodon",
+      "url": "https://mastodon.social/@jeteitsworth",
+      "image": "images/social/mastodon.svg"
+    },
+    {
+      "name": "email",
+      "url": "mailto:james@jamesteitsworth.com",
+      "image": "images/social/mail.svg"
+    }
+  ]
+}
